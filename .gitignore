@@ -1,35 +1,12 @@
-!Build/
-.last_cover_stats
-/META.yml
-/META.json
-/MYMETA.*
-*.o
-*.pm.tdy
-*.bs
-
-# Devel::Cover
-cover_db/
-
-# Devel::NYTProf
-nytprof.out
-
-# Dizt::Zilla
-/.build/
-
-# Module::Build
-_build/
-Build
-Build.bat
-
-# Module::Install
-inc/
-
-# ExtUitls::MakeMaker
-/blib/
-/_eumm/
-/*.gz
-/Makefile
-/Makefile.old
-/MANIFEST.bak
-/pm_to_blib
-/*.zip
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
